@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/roshan/Desktop/MiniWeb",
+            "binaryPath": "/home/roshan/Desktop/MiniWeb/miniweb",
+            "binaryArgs": []
+        }
+    ]
+}
